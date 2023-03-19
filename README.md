@@ -24,6 +24,9 @@ Goal is to build a neural network using from scratch using **Numpy** operations 
    - *HelperFunctions.py*: Contains generic helper functions.
    - *config.py*: Contains global varibales which are used through out the program.
 * *FMNIST_WandB.ipynb*: Optimal choice of hyperparameters are explored by using **WandB**.
+* *FMNIST_Best_Model.ipynb: Final model after hyper parameter search.
+* *FMNIST_Entropy_VS_MSE.ipynb*: Comparision between cross entropy vs MSE
+* *MNIST_top3.ipynb*: Manually choosing the 3 best combinations from FMNIST and trying on MNIST.
 
 
 ## How to use:
